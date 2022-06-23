@@ -4,5 +4,5 @@
 #### Yt-dlp
 
 ```
-command[""geo-bypass-country"] = "IN"
+command["geo-bypass-country"] = "IN"
 ```
